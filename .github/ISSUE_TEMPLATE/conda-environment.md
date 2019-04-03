@@ -1,3 +1,14 @@
+---
+name: Conda Environment
+about: setting up and controlling conda environments
+title: ''
+labels: 1/setup
+assignees: ''
+
+---
+
+
+
 # Conda Environments
 
 - [ ] [prerequiste knowledge](#prerequiste-knowledge)
